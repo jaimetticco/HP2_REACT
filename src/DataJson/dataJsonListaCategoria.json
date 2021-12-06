@@ -1,0 +1,20 @@
+[
+    {
+        "idCategoria": 1,
+        "nombre": "Gama Alta",
+        "estado": "Activo",
+        "productos": []
+    },
+    {
+        "idCategoria": 2,
+        "nombre": "Gama Media",
+        "estado": "Activo",
+        "productos": []
+    },
+    {
+        "idCategoria": 3,
+        "nombre": "Gama Baja",
+        "estado": "Activo",
+        "productos": []
+    }
+]
